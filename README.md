@@ -92,3 +92,6 @@ npm run dev
 ## 📸 Screenshot
 <img src="https://github.com/user-attachments/assets/4feee82a-76b8-4435-a5bd-4b8318af6c30" alt="Screenshot" width="600"/>
 
+## ☕ Support
+
+If you find this project helpful, you can [buy me a coffee](https://www.buymeacoffee.com/jcny) 🙏
